@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/berryblom/testProject/_apis/build/status/berryyblom.pipelines-java?branchName=master)](https://dev.azure.com/berryblom/testProject/_build/latest?definitionId=9&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
